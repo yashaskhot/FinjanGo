@@ -110,8 +110,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql', 
         'NAME': 'fintrack',
-        'USER': 'root',
-        'PASSWORD': 'root',
+        'USER': 'root1',
+        'PASSWORD': 'Yashas@2004',
         'HOST': 'localhost',   # Or an IP Address that your DB is hosted on
         'PORT': '3306',
     }
