@@ -1,10 +1,6 @@
-# ‘FJ-BE-R2  Yashas Khot -Don Bosco Institute of Technology Mumbai
- Backend Assignment for Fischer Jordan
+# FinTrack Djan
 
- Certainly! Here's the README content in Markdown format that you can directly copy and paste into your project's README.md file:
-
-Finance Tracker
-Finance tracker with visualisation and crud operationsss.
+Finance tracker with expenses visualisation and crud Operations.
 ## Table of Contents
 
 - [Project Overview](#project-overview)
