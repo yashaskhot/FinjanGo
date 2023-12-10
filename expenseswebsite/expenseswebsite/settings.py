@@ -110,8 +110,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql', 
         'NAME': 'fintrack',
-        'USER': 'root1',
-        'PASSWORD': 'Yashas@2004',
+        'USER': '',
+        'PASSWORD': '',
         'HOST': 'localhost',   # Or an IP Address that your DB is hosted on
         'PORT': '3306',
     }
@@ -175,9 +175,9 @@ MESSAGE_TAGS = {
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_HOST_USER = 'khotyashas2@gmail.com'
+EMAIL_HOST_USER = ''
 EMAIL_USE_TLS = True
-DEFAULT_FROM_EMAIL = 'khotyashas2@gmail.com'
+DEFAULT_FROM_EMAIL = ''
 EMAIL_PORT = 587
-EMAIL_HOST_PASSWORD = 'gydrvsodonmprmyw'
+EMAIL_HOST_PASSWORD = ''
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
