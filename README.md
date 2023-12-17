@@ -11,11 +11,9 @@ Finance tracker with expenses visualisation and crud Operations.
 
 ## Project Overview
 
-Provide a brief overview of your project. Explain what the project does, its purpose, and any goals you aim to achieve with it.
+A Finance tracking application where you can add,edit and delete expenses and get an overview using various charts.
 
 ## Features
-
-List the key features and functionalities of your Django project. You can use bullet points for clarity.
 
 - Add, Edit, Delete Expenses & Incomes
 - Visualize and Understand your expenditure better
@@ -23,14 +21,10 @@ List the key features and functionalities of your Django project. You can use bu
 
 ## Requirements
 
-Specify the requirements for running your Django project. Include details such as:
-
 - Python3
 - Django 
 - MySql DB 
 - SMTP Mail
-
-
 
 ## Installation
 
