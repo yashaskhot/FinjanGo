@@ -33,9 +33,9 @@ A Finance tracking application where you can add,edit and delete expenses and ge
 It's recommended to use `pipenv` to create and manage a virtual environment for your project. Follow these steps to set up a virtual environment:
 
 1. Install `pipenv` if you haven't already:
-
+   ```bash
    pip install pipenv
-
+   ```
 2. Clone the repository:
 
    ```bash
@@ -64,24 +64,26 @@ It's recommended to use `pipenv` to create and manage a virtual environment for 
 
 After setting up the virtual environment, you can install project dependencies:
 
-```
+```bash
 pipenv install
 ```
 
 ### Running Migrations
 
 Perform initial database migrations:
-
+```bash
 python manage.py migrate
-
+```
 
 ## Usage
 
 Explain how to use your Django project once it's installed and set up. Provide examples or instructions for common tasks and workflows.
 
 ## Run the development server
-python manage.py runserver
 
+```bash
+python manage.py runserver
+```
 
 ## Set environment variables
 ```
