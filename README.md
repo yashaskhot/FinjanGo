@@ -39,7 +39,7 @@ It's recommended to use `pipenv` to create and manage a virtual environment for 
 2. Clone the repository:
 
    ```bash
-   git clone https://github.com/yashaskhot/FJ-BE-R2--Yashas-Khot--Don-Bosco-Institute-of-Technology-Mumbai.git
+   git clone https://github.com/yashaskhot/FinjanGo.git
    ```
 
 3. Navigate to the project directory:
